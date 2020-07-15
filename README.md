@@ -1,7 +1,9 @@
 [![Gitter](https://badges.gitter.im/smu405e/community.svg)](https://gitter.im/smu405e/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Smart Contract
+오픈API프로그래밍 (HAIE0022)  
 
+ 
 * 최종수정일 20200316MON
 
 ## 교과목 개요
